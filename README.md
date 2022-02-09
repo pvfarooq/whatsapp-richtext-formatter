@@ -1,5 +1,5 @@
 # whatsapp-richtext-formatter
-Converts whatsapp formatted strings to richtext field tags
+Converts whatsapp formatted strings to richtext field tags and vice-versa
 
 ## Example
 
