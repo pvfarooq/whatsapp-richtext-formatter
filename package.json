@@ -1,0 +1,26 @@
+{
+  "name": "whatsapp-richtext-formatter",
+  "version": "1.0.0",
+  "description": "Converts whatsapp formatted text to rich text ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pvfarooq/whatsapp-richtext-formatter.git"
+  },
+  "keywords": [
+    "richtext",
+    "whatsapp",
+    "text",
+    "text",
+    "formatter"
+  ],
+  "author": "Ummer farooq",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pvfarooq/whatsapp-richtext-formatter/issues"
+  },
+  "homepage": "https://github.com/pvfarooq/whatsapp-richtext-formatter#readme"
+}
